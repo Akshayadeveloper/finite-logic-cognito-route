@@ -1,0 +1,20 @@
+{
+  "name": "@finite-logic/cognito-route",
+  "version": "1.0.0",
+  "description": "Focus: Complex Resource Allocation (Simulated Annealing Heuristic)",
+  "main": "src/Scheduler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Akshayadeveloper/finite-logic-cognito-route.git"
+  },
+  "keywords": ["finite-logic","cognito","route","allocation","scheduler"],
+  "author": "Akshaya SElvakumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshayadeveloper/finite-logic-cognito-route/issues"
+  },
+  "homepage": "https://github.com/Akshayadeveloper/finite-logic-cognito-route#readme"
+}
